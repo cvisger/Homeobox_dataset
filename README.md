@@ -127,7 +127,7 @@ The homeodomain has a secondary structure made up of a series of helices.
 
 Because we are working with amino acid sequences we can try to predict these secondary structures in Geneious.
 
-Select your alignment and use the annotate/predict drop down menu to predict secondary structure (just do helix or helix+turns).  After a bit of thinking you should have something similar to the image below for all of your sequences.
+Select your alignment and use the annotate/predict drop down menu to predict secondary structure (you may need to instqll EMBOSS protain analysis plugin) (just do helix or helix+turns).  After a bit of thinking you should have something similar to the image below for all of your sequences.
 
 ![](images/README-c4d68351.png)
 
