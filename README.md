@@ -86,7 +86,7 @@ Goto tools and install the PHYML plugin
 
 Select your favorite alignment and click tree -> PHYML
 * choose the BLOSUM62 substitution model
-* Branch support with sh (normally we do bootstrap, but you'll run out of time)
+* With no branch support(normally we do bootstrap, but you'll run out of time)
 * repeat for one of a worse alignments
 
 When it's done, check out the tree in geneious.  
