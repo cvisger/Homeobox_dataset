@@ -35,7 +35,7 @@ To access the data you can either:
 #if you happen to have git installed on your macbook
 git clone https://github.com/cvisger/Homeobox_dataset 
 ```
-or right click and save as https://raw.githubusercontent.com/cvisger/Homeobox_dataset/master/Data/pou.fasta
+or right click and save as https://raw.githubusercontent.com/cvisger/Homeobox_dataset/master/Data/pou.fasta and https://raw.githubusercontent.com/cvisger/Homeobox_dataset/master/Data/HOXL.fasta
 
 
 ## Goals
