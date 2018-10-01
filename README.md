@@ -60,10 +60,10 @@ Even those these sequences are not yet aligned. It should be clear that they sha
 ### Homeodomain
 >Homeobox genes contain a particular DNA sequence that provides instructions for making a string of 60 protein building blocks (amino acids) known as the homeodomain. Most homeodomain-containing proteins act as transcription factors, which means they bind to and control the activity of other genes. The homeodomain is the part of the protein that attaches (binds) to specific regulatory regions of the target genes.
 
-A homeobox is about 180 base pairs long. It encodes a protein domain (the homeodomain) which when expressed (i.e. as protein) can bind DNA. The following shows the consensus 60-residue chain corresponding to homeobox domain, with typical intron positions noted with dashes:
+A homeobox is about 180 base pairs long. It encodes a protein domain (the homeodomain) which when expressed (i.e. as protein) can bind DNA. The following shows the consensus 60-residue chain corresponding to all homeobox domains, with typical intron positions noted with dashes:
 `RRRKRTA-YTRYQLLE-LEKEFLF-NRYLTRRRRIELAHSL-NLTERHIKIWFQN-RRMK-WKKEN`
 
-Comparing the homeobox domain to our sequences you should see that the first exon is well conserved across POU.
+Comparing the homeobox domain to our sequences you should see that the first exon is well conserved across POU.  note: those conserved residues will not exactly match the homeobox-wide consensus I gave you above).
 
 `source: https://ghr.nlm.nih.gov/primer/genefamily/homeoboxes
 https://en.wikipedia.org/wiki/Homeobox`
