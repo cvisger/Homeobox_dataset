@@ -84,12 +84,12 @@ Once you have an alignment you are happy with make sure to write down the settin
 ```
 
 ## Tree building
-Goto tools and install the PHYML plugin
+Goto tools and install the PHYML plugin (you can also try RaxML - but settings will differ slightly)
 
 Select your favorite alignment and click tree -> PHYML
 * choose the BLOSUM62 substitution model
 * With no branch support(normally we do bootstrap, but you'll run out of time)
-* repeat for one of a worse alignments
+* repeat for one of a worse alignments (and repeat the best alignment with RaxML as well if you wish) -- note: you can que up multiple things and run them all at once...just don't go too crazy.
 
 When it's done, check out the tree in geneious.  
 
