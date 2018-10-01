@@ -32,9 +32,10 @@ For the sake of completeness, we will only use sequences from the following mode
 
 To access the data you can either:
 ```
-git clone https://github.com/cvisger/Homeobox_dataset
+#if you happen to have git installed on your macbook
+git clone https://github.com/cvisger/Homeobox_dataset 
 ```
-or download it yourself from the source http://homeodb.cbi.pku.edu.cn/download.get
+or right click and save as https://raw.githubusercontent.com/cvisger/Homeobox_dataset/master/Data/pou.fasta
 
 
 ## Goals
