@@ -105,15 +105,6 @@ Find an area in your worse tree/alignment that needs fixing, and even if you can
 
 Go to the original alignment and click allow editing.  You can now edit the alignment.  Typically this involves changing gaps.
 
-For e.g., here is an area of an alignment where the gaps might not be right.
-
-Before:
-
-![](images/README-6e65561f.png)
-
-After:
-
-![](images/README-7b75b7a5.png)
 
 
 >Phylogenetics traditionally follows Occam's razor (or Ockham's razor) is a principle from philosophy. Suppose there exist two explanations for an occurrence. In this case, the simpler one is usually better. Another way of saying it is that the more assumptions you have to make, the more unlikely an explanation is.
