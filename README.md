@@ -1,5 +1,6 @@
 # Homeobox gene family investigation
-Prepared for Bio 224 at CSU Sacramento by Clayton Visger![](http://thebrain.mcgill.ca/flash/capsules/images/outil_rouge05_img01.jpg)
+Prepared for Bio 224 at CSU Sacramento by Clayton Visger
+![](http://thebrain.mcgill.ca/flash/capsules/images/outil_rouge05_img01.jpg)
 
 
 ## What are homeobox genes?
